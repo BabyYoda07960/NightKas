@@ -1,5 +1,26 @@
 # Changelog
 ***
+## 0.7.4
+- Added optifine cape change button to skin customization
+- Added render interface
+- Added borderless-window
+- Added rainbow-mode to color gui
+- Started rework on color gui
+- Changed event listening
+- Changed crosshair preview position
+- Fixed bug #[12]
+***
+## 0.7.3
+- Added triangle-shape to custom crosshair
+- Changed max rotation angle from 45 degrees to 180 degrees
+***
+## 0.7.2
+- Added custom crosshair
+- Added more particles
+- Updated RenderGui
+- Fixed slow startig with no internet / very slow internet
+- Fixed bug #[10]
+***
 ## 0.7.1
  - Added this changelog :)
  - Added folders to settings menu
