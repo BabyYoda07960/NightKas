@@ -1,5 +1,18 @@
 # Changelog
 ***
+## 0.7.5
+- Added hitbox
+- Added confirm disconnect
+- Added cps modes
+- Added player chat event
+- Added nick hider base
+- Added search text to resourcepack screen
+- Added remove enchanted book glint
+- Changed tag for nametag
+- Cleaned up code
+- Fixed bug #[11]
+- Fixed bug #[13]
+***
 ## 0.7.4
 - Added optifine cape change button to skin customization
 - Added render interface
