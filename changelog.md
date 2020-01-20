@@ -1,5 +1,8 @@
 # Changelog
 ***
+## 0.7.6
+- Fixed bug #[14]
+***
 ## 0.7.5
 - Added hitbox
 - Added confirm disconnect
